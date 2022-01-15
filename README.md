@@ -6,7 +6,7 @@ const MinecraftGirlSkin = new JumboChad.Chad({nigger: "false", gay: "false", vir
 
 var pussy = MinecraftGirlSkin.GetInfos();
 var pwd = BobaChad.GetPWDList();
-
+var ID = BobaChad.SexWith(pussy);
 
 
 async function BobaInfos(){
@@ -20,5 +20,5 @@ async function Kill(nigger){
   BobaChad.log("i hate u" + nigger);
 }
 
-if(pwd === "diocane"){ BobaInfos() } else { 
+if(pwd === "diocane"){ BobaInfos() } else { Kill(ID) }
 ```

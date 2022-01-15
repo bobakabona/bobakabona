@@ -1,16 +1,24 @@
-### Hi there 👋
+```js
 
-<!--
-**jumbobaa/jumbobaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const JumboChad = require("bobachad.js");
+const BobaChad = new JumboChad.Chad({nigger: "true", gay: "true", virgin: "true", simp: "true", v1owner: "true"});
+const MinecraftGirlSkin = new JumboChad.Chad({nigger: "false", gay: "false", virgin: "false", "girl": "true"})
 
-Here are some ideas to get you started:
+var pussy = MinecraftGirlSkin.GetInfos();
+var pwd = BobaChad.GetPWDList();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+async function BobaInfos(){
+  BobaChad.log("[+] Discord OG Member");
+  BobaChad.log("[+] AntiSimp & AntiLGBTQ");
+  BobaChad.log("[+] Without friends.");
+  BobaChad.destroy(pussy);
+}
+
+async function Kill(nigger){
+  BobaChad.log("i hate u" + nigger);
+}
+
+if(pwd === "diocane"){ BobaInfos() } else { 
+```

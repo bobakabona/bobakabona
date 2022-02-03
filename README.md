@@ -10,8 +10,7 @@ var ID = BobaChad.SexWith(pussy);
 
 
 async function BobaInfos(){
-  BobaChad.log("[+] Discord OG Member");
-  BobaChad.log("[+] AntiSimp & AntiLGBTQ");
+  BobaChad.log("[+] AntiSimp");
   BobaChad.log("[+] Without friends.");
   BobaChad.destroy(pussy);
 }
